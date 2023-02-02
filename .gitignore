@@ -1,3 +1,4 @@
-obj
-bin
 Eventos.csproj
+bin
+obj
+.vs
